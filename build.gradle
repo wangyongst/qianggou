@@ -40,7 +40,7 @@ dependencyManagement {
 
 dependencies {
 
-    compile('commons-dbutils:commons-dbutils')
+    compile('org.seleniumhq.selenium:selenium-java:3.12.0')
 
     compile('org.jsoup:jsoup:1.11.3')
 
